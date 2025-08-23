@@ -27,7 +27,6 @@
 
 ## 📫 Connect with Me
 - GitHub: [@RichoLab](https://github.com/RichoLab)  
-- (Optionally add LinkedIn, portfolio, or email here)  
 
 ---
 
