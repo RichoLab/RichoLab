@@ -24,10 +24,10 @@
 - Game dev pipelines with Godot and asset packs  
 
 ---
-
+<!---
 ## 📫 Connect with Me
 - GitHub: [@RichoLab](https://github.com/RichoLab)  
 
----
+--->
 
 ⭐ *I’m always open to collaborating on cool projects, especially in C#, web, or game dev!* 
