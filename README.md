@@ -4,13 +4,13 @@
 💻 I enjoy working with **C# (.NET, WinForms, threading)**, **JavaScript (React Native, web apps)**, and exploring **game dev (Godot, Unity)**.  
 📊 Also diving deep into **maths, data analysis, and database development using T-Sql**.  
 
----
+<!---
 
 ## 🔧 Tech Stack
 - **Languages**: C#, JavaScript, SQL, Python
 - **Frameworks & Tools**: .NET, React Native (Expo), Godot
 - **Databases**: SQL Server, MySQL  
-
+--->
 ---
 
 ## 📂 Featured Projects
