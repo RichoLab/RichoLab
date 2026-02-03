@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack
 - **Languages**: C#, JavaScript, SQL, Python
-- **Frameworks & Tools**: .NET, React Native (Expo), Godot
+- **Frameworks & Tools**: .NET, React Native
 - **Databases**: SQL Server, MySQL
   
 ---
@@ -18,8 +18,8 @@
 
 ## 🌱 What I'm Learning
 - Advanced software testing & database optimisation  
-- Mobile app development  
-- Game dev pipelines with Godot and asset packs  
+- Mobile app development
+- Web development
 
 ---
 <!---
@@ -28,4 +28,4 @@
 
 --->
 
-⭐ *I’m always open to collaborating on cool projects, especially in C#, web, or game dev!* 
+⭐ *I’m always open to collaborating on cool projects, especially in C#, web or mobile applications* 
