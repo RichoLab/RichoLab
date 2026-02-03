@@ -1,6 +1,6 @@
 # Hi there, I'm Richo 👋  
 
-🎓 2nd year Software Engineering student at Belgium Campus, passionate about building useful and fun projects.  
+🎓 3rd year Software Engineering student at Belgium Campus, passionate about building useful and fun projects.  
 💻 I enjoy working with **C# (.NET, WinForms, threading)**, **JavaScript (React Native, web apps)**, and exploring **game dev (Godot, Unity)**.  
 📊 Also diving deep into **maths, data analysis, and database development using T-Sql**.  
 
